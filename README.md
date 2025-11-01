@@ -1,7 +1,4 @@
 
-Understood. The request is to rewrite the provided LaTeX document, grounding its abstract mathematical framework in concrete, understandable implementations and providing empirical validations. The goal is to transform the purely theoretical paper into a practical, defensible, and compelling technical document.
-
-This is the revised and implemented version.
 
 ***
 
